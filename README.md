@@ -5,8 +5,15 @@
     Our role involves careful planning, skilled craftsmanship, and effective communication
     to ensure every detail meets the client's needs and expectations, resulting in a successful project.
 
-#Screenshot
+# Screenshot
+
 ![Project Screenshot](https://github.com/shrig0620/shrigg/blob/main/ss.png)
+
+# Score
+
+![Project Screenshot](https://github.com/shrig0620/shrigg/blob/main/score.png)
+
+
 
 
 
