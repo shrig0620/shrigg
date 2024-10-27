@@ -6,7 +6,7 @@
     to ensure every detail meets the client's needs and expectations, resulting in a successful project.
 
 #Screenshot
-<img src="./ss.jpg" height="250px" align="right"/>
+<img src="ss.jpg"/>
 
 
 
