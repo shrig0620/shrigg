@@ -4,7 +4,9 @@
 
 
 # Construction Description
-    Building construction is a collaborative effort where we turn client visions into reality. Our role involves careful planning, skilled craftsmanship, and effective communication to ensure every detail meets the client's needs and expectations, resulting in a successful project.
+    Building construction is a collaborative effort where we turn client visions into reality. 
+    Our role involves careful planning, skilled craftsmanship, and effective communication
+    to ensure every detail meets the client's needs and expectations, resulting in a successful project.
 
 ---
 
