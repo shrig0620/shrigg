@@ -6,7 +6,7 @@
     to ensure every detail meets the client's needs and expectations, resulting in a successful project.
 
 #Screenshot
-<img src="ss.jpg"/>
+![Project Screenshot](https://github.com/shrig0620/shrigg/blob/main/ss.png)
 
 
 
