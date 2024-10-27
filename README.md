@@ -11,7 +11,7 @@
 
 # Score
 
-![Project Screenshot](https://github.com/shrig0620/shrigg/blob/main/score.png)
+![Project Screenshot](https://github.com/shrig0620/shrigg/blob/main/performance.png)
 
 
 
